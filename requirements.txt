@@ -1,0 +1,10 @@
+cv
+opencv-contrib-python
+imutils
+pymysql
+python-dotenv
+pandas
+cryptography
+xlrd
+sqlalchemy
+numba
